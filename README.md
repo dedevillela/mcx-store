@@ -32,6 +32,16 @@ npm test
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+## Aditional Information
+
+- Product, Stock and Banner data stored in JSON file;
+- Two Routes: Home and Cart;
+- You can add an product to the Cart;
+- The amount of products in the Cart is limited by the available Stock;
+- Click on the Cart icon to navigate to the Cart page;
+- Increase or decrease product amount inside the Cart page;
+- Product total price is updated acordingly in te Cart page;
+
 ---
 
 Hope you like it, and thanks for your time! ❤️
