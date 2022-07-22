@@ -40,7 +40,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - The amount of products in the Cart is limited by the available Stock;
 - Click on the Cart icon to navigate to the Cart page;
 - Increase or decrease product amount inside the Cart page;
-- Product total price is updated acordingly in te Cart page;
+- Product total price is updated acordingly in the Cart page;
 
 ---
 
