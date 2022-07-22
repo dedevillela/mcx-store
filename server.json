@@ -1,0 +1,70 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 4
+    },
+    {
+      "id": 4,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Macacão Feminino Maria Filó Sobreposição",
+      "price": 759,
+      "image": "./images/products/macacao.jpg",
+      "installmentPrice": "12x de R$ 63,25",
+      "labelTitle": "Verão 2022",
+      "labelImage": "./images/labels/verao-2022.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Regata Feminina de Tricot com Ombreira",
+      "price": 759,
+      "image": "./images/products/regata.jpg",
+      "installmentPrice": "12x de R$ 63,25",
+      "labelTitle": "20% Off",
+      "labelImage": "./images/labels/20-off.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blusa Feminia Silk Merci",
+      "price": 759,
+      "image": "./images/products/blusa.jpg",
+      "installmentPrice": "12x de R$ 63,25",
+      "labelTitle": "",
+      "labelImage": ""
+    },
+    {
+      "id": 4,
+      "title": "Blazer Feminino Liocel Punho",
+      "price": 759,
+      "image": "./images/products/blazer.jpg",
+      "installmentPrice": "12x de R$ 63,25",
+      "labelTitle": "Lançamento",
+      "labelImage": "./images/labels/lancamento.jpg"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "Íris Verão 2022",
+      "image": "./images/banners/banner-iris-verao-2022.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Le Lis Blanc",
+      "image": "./images/banners/banner-le-lis-blanc.jpg"
+    }
+  ]
+}
