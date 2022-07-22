@@ -41,5 +41,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ---
 
-Hope you like it, and thanks for your time.\
+Hope you like it, and thanks for your time. :clock9:\
 Made with ❤️ in :small_red_triangle: :brazil:
