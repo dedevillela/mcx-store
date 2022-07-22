@@ -1,10 +1,10 @@
 ![MCX Store](/public/og-image.png)
 
-# MCX Store
+# MCX Store :dress:
 
 This project was created to emulate an e-commerce store using React JS and Typescript.
 
-## Available Scripts
+## Available Scripts :computer:
 
 In the project directory, you can run:
 
@@ -32,7 +32,7 @@ npm test
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Aditional Information
+## Aditional Information :warning:
 
 - Product, Stock and Banner data stored in JSON file;
 - Two Routes: Home and Cart;
@@ -44,4 +44,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ---
 
-Hope you like it, and thanks for your time! ❤️
+Hope you like it, and thanks for your time.\
+Made with ❤️ in :small_red_triangle: :brazil:
