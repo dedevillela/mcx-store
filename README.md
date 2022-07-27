@@ -1,10 +1,12 @@
 ![MCX Store](/public/og-image.png)
 
-# MCX Store :dress:
+# MCX Store :dress: ![GitHub package.json version](https://img.shields.io/github/package-json/v/dedevillela/mcx-store) ![GitHub](https://img.shields.io/github/license/dedevillela/mcx-store) ![Netlify](https://img.shields.io/netlify/bdd0562b-577a-463e-838e-4645553f81b0)
 
 This project was created to emulate an e-commerce store using React JS and Typescript.
 
-Live site: https://mcx-store.netlify.app/
+:sparkles: Live site: https://mcx-store.netlify.app/
+
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/typescript?logo=typescript) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/swiper?color=lightblue&logo=swiper) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/styled-components?color=pink&logo=styled-components)
 
 ## Available Scripts :computer:
 
@@ -46,8 +48,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Click on the Cart icon to navigate to the Cart page;
 - Increase or decrease product amount inside the Cart page;
 - Product total price is updated acordingly in the Cart page;
+- Netlify build integration;
 
 ---
 
 Hope you like it, and thanks for your time. :clock9:\
-Made with ❤️ in :small_red_triangle: :brazil:
+Made with ❤️ in :small_red_triangle: :brazil: :rooster:

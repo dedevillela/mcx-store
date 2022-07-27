@@ -1,6 +1,14 @@
 {
   "name": "mcx-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
+  "description": "This project was created to emulate an e-commerce store using React JS and Typescript.",
+  "homepage": "https://mcx-store.netlify.app/",
+  "author": {
+    "name" : "André Villela",
+    "email" : "dede.villela@gmail.com",
+    "url" : "http://github.com/dedevillela"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
