@@ -48,6 +48,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Click on the Cart icon to navigate to the Cart page;
 - Increase or decrease product amount inside the Cart page;
 - Product total price is updated acordingly in the Cart page;
+- Uses localStorage to store Cart information;
 - Netlify build integration;
 
 ---
