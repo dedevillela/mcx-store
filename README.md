@@ -4,7 +4,15 @@
 
 This project was created to emulate an e-commerce store using React JS and Typescript.
 
+Live site: https://mcx-store.netlify.app/
+
 ## Available Scripts :computer:
+
+Install the project dependencies:
+
+```
+npm install
+```
 
 In the project directory, you can run:
 
