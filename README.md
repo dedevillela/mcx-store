@@ -1,6 +1,6 @@
-![MCX Store](/public/og-image.png)
-
 # MCX Store :dress: ![GitHub package.json version](https://img.shields.io/github/package-json/v/dedevillela/mcx-store) ![GitHub](https://img.shields.io/github/license/dedevillela/mcx-store) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dedevillela/mcx-store/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/dedevillela/mcx-store/?branch=main) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/mcx-store/badges/build.png?b=main)](https://scrutinizer-ci.com/g/dedevillela/mcx-store/build-status/main) ![Netlify](https://img.shields.io/netlify/bdd0562b-577a-463e-838e-4645553f81b0)
+
+![MCX Store](/public/og-image.png)
 
 This project was created to emulate an e-commerce store using React JS and Typescript.
 
