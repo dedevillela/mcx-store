@@ -4,7 +4,7 @@
 
 This project was created to emulate an e-commerce store using React JS and Typescript.
 
-:sparkles: Live site: https://mcx-store.netlify.app/ (BETA)
+:sparkles: Live site: [https://wti9lj-3003.preview.csb.app/](https://wti9lj-3003.preview.csb.app/) (BETA)
 
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/typescript?logo=typescript) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/swiper?color=lightblue&logo=swiper) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/mcx-store/styled-components?color=pink&logo=styled-components)
 
